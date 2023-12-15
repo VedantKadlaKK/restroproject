@@ -1,0 +1,149 @@
+
+DINE IN
+ Date     :   5
+Customer     :   y
+Roti :9
+total amount of snacks      : 0
+total amount of foods         : 180
+total amount of beverages : 0
+Total amount                        : 180
+GST                                        : 32.4
+Final amount                        : 212.4
+_____________________________________________
+
+DINE IN
+ Date     :   45
+Customer     :   vedu
+Potato chip :7
+Sandwich :7
+total amount of snacks      : 350
+total amount of foods         : 0
+total amount of beverages : 0
+Total amount                        : 350
+GST                                        : 63.0
+Final amount                        : 413.0
+_____________________________________________
+
+DINE IN
+ Date     :   29.04.2022
+Customer     :   01 dimpal
+
+DINE IN
+ Date     :   30.04.2022
+Banana chip :5
+Paneer masala :5
+Roti :4
+total amount of snacks      : 100
+total amount of foods         : 680
+total amount of beverages : 0
+Total amount                        : 780
+GST                                        : 140.4
+Final amount                        : 920.4
+_____________________________________________
+
+DINE IN
+ Date     :   30 04 2022
+Customer     :   vedant
+Banana chip :6
+total amount of snacks      : 120
+total amount of foods         : 0
+total amount of beverages : 0
+Total amount                        : 120
+GST                                        : 21.6
+Final amount                        : 141.6
+_____________________________________________
+
+DINE IN
+ Date     :   13
+Customer     :   aditya
+Banana chip :3
+total amount of snacks      : 60
+total amount of foods         : 0
+total amount of beverages : 0
+Total amount                        : 60
+GST                                        : 10.8
+Final amount                        : 70.8
+_____________________________________________
+
+DINE IN
+ Date     :   46
+Customer     :   dfg
+Potato chip :10
+Banana chip :20
+Paneer masala :190 
+total amount of snacks      : 500
+total amount of foods         : 22800
+total amount of beverages : 0
+Total amount                        : 23300
+GST                                        : 4194.0
+Final amount                        : 27494.0
+_____________________________________________
+
+DINE IN
+ Date     :   45
+Customer     :   sam
+Customer     :   sam
+Customer     :   sam
+
+DINE IN
+ Date     :   28.5.2022
+Customer     :   1.Preeti
+Customer     :   1.Preeti
+Potato chip :1
+French Fries :1
+Sandwich :1
+Chocolate Milkshake :1
+total amount of snacks      : 85
+total amount of foods         : 0
+total amount of beverages : 40
+Total amount                        : 125
+GST                                        : 22.5
+Final amount                        : 147.5
+_____________________________________________
+Customer Phone : 9764436229
+Customer Name : pooja
+Customer Phone : 9764436229
+Customer Name : pooja
+
+TAKE OUT
+ Date     :   7.3.2022
+Burger :8
+Chicken biryani :6
+Cold Coffee :6
+total amount of snacks      : 480
+total amount of foods         : 720
+total amount of beverages : 360
+Total amount                        : 1560
+GST                                        : 280.8
+Final amount                        : 1840.8
+_____________________________________________
+
+DINE IN
+ Date     :   12 3
+Customer     :   ajit
+Potato chip :1
+Banana chip :2
+Rice Plate :1
+Paneer masala :1
+Tea :1
+total amount of snacks      : 50
+total amount of foods         : 220
+total amount of beverages : 10
+Total amount                        : 280
+GST                                        : 50.4
+Final amount                        : 330.4
+_____________________________________________
+
+DINE IN
+ Date     :   2/2/2022
+Customer     :   2 vedant
+Potato chip :2
+Paneer masala :2
+Pineapple Milkshake :2
+total amount of snacks      : 20
+total amount of foods         : 240
+total amount of beverages : 60
+Total amount                        : 320
+GST                                        : 57.6
+Final amount                        : 377.6
+_____________________________________________
